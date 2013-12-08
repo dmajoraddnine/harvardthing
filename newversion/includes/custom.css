@@ -1,0 +1,117 @@
+
+			  .label{
+			   float:left; width:150px; text-align:right;
+			   padding-left:5px;
+			   padding-top:5px;
+			   font-weight: bold;
+			  }
+			  
+			  .formInputElement{
+			   float:left; width:400px; text-align:left;
+			   padding-left:5px;
+			   padding-top:5px;
+			   
+			  }
+			  
+			  .formInputElement1{
+			   float:left; width:450px; text-align:left;
+			   padding-left:5px;
+			   padding-top:5px;
+			   
+			  }
+			  
+			  .spacer{
+			    clear:both;
+			    height:10px;
+			  }
+			  
+			  .submitButton{
+			    width:50px;
+			  }
+			  
+			  .error{
+			   color:red;
+			  }
+			  
+			  
+#memberArea input{
+   color:#5c5c5c;
+   width: 300px;
+} 
+
+#memberArea .smallText{
+   width:50px;
+}
+
+#memberArea .smallChecbox{
+   width:10px;
+}
+
+#memberArea .mediumText{
+   width:70px;
+}
+
+#memberArea .bigText{
+   width:100px;
+}
+
+
+#memberArea .submitText{
+   width:150px;
+}
+
+
+
+#memberArea select{
+   color:#5c5c5c;
+} 
+
+
+#memberArea textarea{
+ width:100%; height:50px;  overflow-y: scroll;
+}			  
+
+#memberArea fieldset{
+border: 1px solid #AE0010; padding:5px;
+}			  
+
+#memberArea legend{
+  padding-left:5px;
+  font-weight: bold;
+  color:#5c5c5c;
+  font-size:15px;
+}
+
+#memberArea #studyBlock #renewalCheckboxBlock, #memberArea #studyBlock #futureStatus{
+  padding-left:10px;
+}
+
+#memberArea #studyBlock #renewalCheckboxBlock ul{
+  list-style-type: none;
+}
+#memberArea #studyBlock #renewalCheckboxBlock li{
+  padding-top: 5px;
+}
+
+#memberArea #summaryBlock1 textarea, #memberArea #summaryBlock2 textarea, #memberArea #summaryBlock3 textarea{
+  width:100%;
+  height:250px;
+  overflow-y: scroll;
+}
+
+#memberArea .workingTitleOfThesis {
+  width:400px;
+  height:50px;
+  overflow-y: scroll;
+}
+
+#memberArea #summaryBlock3 textarea{
+  width:100%;
+  height:700px;
+  overflow-y: scroll;
+}
+
+#memberArea #formButtonArea{
+  text-align:center;
+}
+
